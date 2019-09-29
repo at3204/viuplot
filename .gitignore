@@ -35,4 +35,5 @@ MANIFEST
 
 # project related
 *.html
-/export/*.*
+export/*.*
+!export/.gitkeep 
